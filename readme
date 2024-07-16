@@ -1,0 +1,66 @@
+# Moon Animation Project
+
+This project demonstrates a simple moon animation using HTML and CSS. The moon pulsates and moves horizontally, creating a glowing effect.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+
+## Demo
+
+You can view a live demo of the project [here](#).
+
+## Project Structure
+
+```
+.
+├── index.html
+└── README.md
+```
+
+- **index.html**: Contains the HTML structure and embedded CSS for the moon animation.
+- **README.md**: This file, which provides an overview of the project.
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+All you need to run this project is a web browser.
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/umeshyadav7988/moon-animation.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd moon-animation
+   ```
+
+3. Open the `index.html` file in your web browser to view the animation.
+
+## Usage
+
+- Open `index.html` in a web browser.
+- The moon animation should start automatically.
+
+### HTML Structure
+
+The HTML file includes the following main sections:
+
+- `<!DOCTYPE html>`: Defines the document type and version of HTML.
+- `<head>`: Contains metadata and the title of the document.
+- `<body>`: Contains the main content of the page, including the animated moon.
+
+### CSS Styling
+
+The CSS is embedded within the HTML file. It includes styling for the moon and the keyframe animation that creates the pulsating and moving effect.
